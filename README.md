@@ -1,6 +1,4 @@
-# Dynamic-Interception-Proxy Demo
-
-**Contains Ultraviolet to show dual-proxy compatibility**
+# DIP WITHOUT UV!!!
 
 
 ## Running
